@@ -1,0 +1,12 @@
+message_inbox
+message_inbox.dSYM/
+message_inbox.exe
+*.o
+*.obj
+*.exe
+.DS_Store
+.vs/
+Debug/
+Release/
+build/
+cmake-build-debug/
